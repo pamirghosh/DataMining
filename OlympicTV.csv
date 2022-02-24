@@ -1,0 +1,10 @@
+Rome,Mexico City,Munich,,
+Tokyo,Rome,Los Angeles,,
+Mexico City,Barcelona,Tokyo,,
+Munich,Barcelona,Mexico City,Tokyo,Montreal
+Montreal,Barcelona,Seoul,,
+Moscow,Mumbai,Rome,,
+Los Angeles,Mumbai,Munich,Montreal,
+Seoul,Moscow,NBC,Los Angeles,
+Barcelona,Seoul,Munich,Rome,
+Atlanta,Moscow,Rome,,
